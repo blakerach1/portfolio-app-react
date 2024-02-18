@@ -7,7 +7,7 @@ function App() {
     {
       title: "Porfolio Website",
       description: "Portfolio website built with HTML and CSS",
-      imageURL: "",
+      image: "src/assets/hamburger-menu.gif",
       projectURL: "https://blakerach1.github.io/",
     },
     {
